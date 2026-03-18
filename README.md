@@ -2,9 +2,9 @@
 
 # Hey there! I'm Robert 👋
 
-### 💻 Full Stack Developer | 🇨🇴 Cali, Colombia
+### 💻 Full Stack Developer from Cali, Colombia 🇨🇴
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;TypeScript+%26+React+Enthusiast;Always+Learning+%F0%9F%9A%80;Building+Cool+Stuff+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;TypeScript+%26+React+Enthusiast;Always+Learning+New+Tech+%F0%9F%9A%80;Building+Cool+Stuff+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -21,6 +21,11 @@ const robert = {
   funFact: "My app's logo is my cat 🐱💙",
 };
 ```
+
+- 🔭 Working on **[RobertApp](https://github.com/robertfenyiner/RobertApp)** — a personal finance platform
+- 🌱 Currently learning **AI/ML & Cloud Architecture**
+- 💬 Ask me about **TypeScript, React, Node.js**
+- 📍 Based in **Cali, Colombia**
 
 ---
 
@@ -53,7 +58,7 @@ const robert = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -61,15 +66,25 @@ const robert = {
 
 ### 🚀 Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-[![RobertApp](https://img.shields.io/badge/🏦_RobertApp-Personal_Finance_Platform-818CF8?style=for-the-badge)](https://github.com/robertfenyiner/RobertApp)
+### 🏦 [RobertApp](https://github.com/robertfenyiner/RobertApp)
+> A full-stack personal finance platform with expense tracking, compound interest savings, Telegram notifications, multi-currency support, and a beautiful dark mode UI.
 
-</div>
+**Tech:** `React` `TypeScript` `Node.js` `Express` `SQLite` `Telegram Bot API`
 
-> **RobertApp** — A full-stack personal finance platform with expense tracking, compound interest savings (cajitas), Telegram notifications, multi-currency support, and beautiful dark mode UI.
->
-> `React` `TypeScript` `Node.js` `Express` `SQLite` `Telegram Bot API`
+**Features:**
+- 💰 Expense tracking with categories & charts
+- 🏦 Savings "cajitas" with daily compound interest
+- 📱 Telegram daily reports
+- 🌍 Multi-currency support (9 currencies)
+- 🌙 Premium dark mode design
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,34 +92,26 @@ const robert = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robertfenyiner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=818cf8&icon_color=818cf8&text_color=94a3b8&ring_color=818cf8" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertfenyiner&theme=tokyonight&hide_border=true&background=0a0e1a&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b" width="48%" />
+<a href="https://github.com/robertfenyiner">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertfenyiner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfenyiner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfenyiner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=818cf8&text_color=94a3b8&langs_count=8" width="40%" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=robertfenyiner&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertfenyiner&theme=tokyonight&hide_border=true&background=0D1117&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/robertfenyiner/robertfenyiner/output/github-snake-dark.svg" alt="Snake animation" />
+### ⚡ Activity Graph
+
+[![Robert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robertfenyiner&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818cf8&line=818cf8&point=f59e0b)](https://github.com/robertfenyiner)
 
 </div>
 
@@ -114,11 +121,11 @@ const robert = {
 
 ### 💬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-robertfenyiner-181717?style=flat-square&logo=github)](https://github.com/robertfenyiner)
+[![GitHub](https://img.shields.io/badge/GitHub-robertfenyiner-181717?style=for-the-badge&logo=github)](https://github.com/robertfenyiner)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=robertfenyiner&color=818cf8&style=flat-square&label=Profile+Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=robertfenyiner&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ *Made with ❤️ from Cali, Colombia* 🇨🇴
 
