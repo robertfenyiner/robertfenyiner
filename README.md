@@ -18,7 +18,7 @@ const robert = {
   role: "Full Stack Developer",
   currentProject: "RobertApp — Personal Finance Platform",
   learning: ["AI/ML", "Cloud Architecture", "DevOps"],
-  funFact: "My app's logo is my cat 🐱💙",
+  funFact: "My app's my cat 🐱💙",
 };
 ```
 
